@@ -1,0 +1,30 @@
+.Credi-card {
+  padding: 20px;
+  border-radius: 6%;
+  width: 460px;
+  height: 250px;
+  background:url(cred.png); 
+  background-size: 100% 100%;
+}
+.Creditname{position: absolute;
+  left:  200px;
+  top: 0px }
+.Serial-Number{
+  position: absolute;
+  top: 70px; left:  140px;
+  font-variant: small-caps;
+  font-style: oblique;
+
+}
+.Number-V{position: absolute;
+  top: 170px; left: 40px;
+
+}
+.validate{position: absolute;
+  top: 170px; left: 400px;
+}
+.Holder{
+  position: absolute;
+  top: 220px; left: 10px;
+}
+
